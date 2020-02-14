@@ -1,0 +1,7 @@
+"Hi, I just want to open and read the contents of this file"
+
+This am writing from the python code.
+
+This am writing from the python code.
+
+This am writing from the python code.

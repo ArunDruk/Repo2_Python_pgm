@@ -1,0 +1,3 @@
+This is ridiculous
+Am "waiting for the output to get printed"
+Come on, Come on ....This line is added by appending the file and opening in append modeThis line is added by appending the file and opening in append modeThis line is added by appending the file and opening in append modeThis line is added by appending the file and opening in append mode

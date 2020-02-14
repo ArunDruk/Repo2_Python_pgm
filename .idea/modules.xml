@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:/List_of_programs/.idea/List_of_programs.iml" filepath="C:/List_of_programs/.idea/List_of_programs.iml" />
+      <module fileurl="file://E:/Mobile_Automation/.idea/Mobile_Automation.iml" filepath="E:/Mobile_Automation/.idea/Mobile_Automation.iml" />
+      <module fileurl="file://E:/PYTEST_test_programs/.idea/PYTEST_test_programs.iml" filepath="E:/PYTEST_test_programs/.idea/PYTEST_test_programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pratice_Pgms.iml" filepath="$PROJECT_DIR$/.idea/Pratice_Pgms.iml" />
+      <module fileurl="file://C:/Python_Programs/.idea/Python_Programs.iml" filepath="C:/Python_Programs/.idea/Python_Programs.iml" />
+      <module fileurl="file://E:/Robot_frameworks_Programs/.idea/Robot_frameworks_Programs.iml" filepath="E:/Robot_frameworks_Programs/.idea/Robot_frameworks_Programs.iml" />
+      <module fileurl="file://E:/Test/.idea/Test.iml" filepath="E:/Test/.idea/Test.iml" />
+      <module fileurl="file://E:/Web_App_Dev/.idea/Web_App_Dev.iml" filepath="E:/Web_App_Dev/.idea/Web_App_Dev.iml" />
+    </modules>
+  </component>
+</project>
